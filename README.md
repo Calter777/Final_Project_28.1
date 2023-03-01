@@ -32,7 +32,7 @@ locators.py - список локаторов на веб страницах,
 
 Запуск тестов при помощи команд в консоли:
 
-- python -m pytest -v --driver Chrome --driver-path chromedriver.exe tests/test.py
+- pytest -v --driver Chrome --driver-path chromedriver.exe tests/test.py
 
 Ссылка на тест кейсы: https://docs.google.com/spreadsheets/d/1_Ijgn-lrIk70E9vSyNRXjH20IRuU19qvDXzVrQU0c-M/edit?usp=sharing
 
